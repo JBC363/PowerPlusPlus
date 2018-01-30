@@ -15,7 +15,7 @@ data:extend(
     },
     results=
     {
-      {type="fluid", name="diesel", amount=20}
+      {type="fluid", name="diesel", amount=20, temperature=525},
     },
     subgroup = "fluid-recipes",
     crafting_machine_tint =
